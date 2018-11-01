@@ -23,3 +23,7 @@ end
 def first_element_with_array_methods(element)
   element.first
 end
+
+def last_element_with_array_methods(element)
+  element.pop
+end
