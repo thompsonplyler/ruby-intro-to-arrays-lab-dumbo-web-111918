@@ -8,6 +8,6 @@ end
 
 def first_element(element)
 
-  element.0
+  element.[0]
   
 end
