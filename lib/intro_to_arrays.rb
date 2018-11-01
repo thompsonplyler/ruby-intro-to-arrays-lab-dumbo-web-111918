@@ -20,5 +20,7 @@ def last_element(element)
   element[-1]
 end
 
-def first_element_with_array_methods()
+def first_element_with_array_methods(element)
+  element.first
+  
 end
