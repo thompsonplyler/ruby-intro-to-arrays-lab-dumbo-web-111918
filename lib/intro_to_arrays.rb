@@ -11,3 +11,7 @@ def first_element(element)
 element[0]
 
 end
+
+def third_element(element)
+  element[2]
+end
