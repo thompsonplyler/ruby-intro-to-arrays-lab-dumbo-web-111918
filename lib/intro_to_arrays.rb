@@ -8,6 +8,7 @@ end
 
 def my_first_element(element)
 
-  element.[0]
-  
+array = element
+element.0
+
 end
