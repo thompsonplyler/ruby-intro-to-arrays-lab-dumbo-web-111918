@@ -27,3 +27,7 @@ end
 def last_element_with_array_methods(element)
   element.pop
 end
+
+def length_of_array(element)
+  element.length
+end
