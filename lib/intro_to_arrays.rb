@@ -22,5 +22,4 @@ end
 
 def first_element_with_array_methods(element)
   element.first
-  
 end
