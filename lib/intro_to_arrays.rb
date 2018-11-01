@@ -9,6 +9,6 @@ end
 def first_element(element)
 
   array = [element]
-  return = array[0]
+  array[0]
   
 end
