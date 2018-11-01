@@ -8,7 +8,6 @@ end
 
 def my_first_element(element)
 
-array = element
-element.0
+element[0]
 
 end
